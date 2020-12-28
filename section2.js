@@ -30,3 +30,5 @@ const data = [
     link: 'Shop now',
   },
 ]
+
+export default data

@@ -30,3 +30,5 @@ const data = [
     text: 'Shop Business',
   },
 ]
+
+export default data
