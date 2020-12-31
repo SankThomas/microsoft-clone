@@ -2,7 +2,7 @@ export const footer = [
   {
     id: 1,
     title: "What's new",
-    links: [
+    hrefs: [
       'Surface Duo',
       'Surface Laptop Go',
       'Surface Pro X',
@@ -16,7 +16,7 @@ export const footer = [
   {
     id: 2,
     title: 'Microsoft Store',
-    links: [
+    hrefs: [
       'Account Profile',
       'Download Center',
       'Microsoft Store support',
@@ -30,7 +30,7 @@ export const footer = [
   {
     id: 3,
     title: 'Education',
-    links: [
+    hrefs: [
       'Microsft in education',
       'Office for students',
       'Office 365 for schools',
@@ -41,7 +41,7 @@ export const footer = [
   {
     id: 4,
     title: 'Enterprise',
-    links: [
+    hrefs: [
       'Azure',
       'AppSource',
       'Automotive',
@@ -55,7 +55,7 @@ export const footer = [
   {
     id: 5,
     title: 'Developer',
-    links: [
+    hrefs: [
       'Microsoft Visual Studio',
       'Windows Dev Center',
       'Developer Center',
@@ -68,7 +68,7 @@ export const footer = [
   {
     id: 6,
     title: 'Company',
-    links: [
+    hrefs: [
       'Careers',
       'About Microsoft',
       'Company news',
